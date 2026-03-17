@@ -11,5 +11,8 @@ class Add{
         double d2 = 10;
         double res2 = d1+d2;
         System.out.println("Addition of two doubles is : "+res2);
+
+        char ch = 'a';
+        System.out.println(ch);
     }
 }
